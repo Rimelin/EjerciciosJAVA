@@ -7,7 +7,7 @@
  * - Múltiplos de 3 y de 5 a la vez por la palabra "fizzbuzz".
  */
 
-public class Principal {
+public class Ej1fizzbuzz {
     
     public static void main(String[] args) {
         int numero=1;
